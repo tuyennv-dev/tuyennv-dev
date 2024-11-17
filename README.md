@@ -19,8 +19,8 @@ I'm Tuyen Nguyen, A Developer from <b>Nam Dinh, Viet Nam</b>, currently living i
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a> 
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://upanh.tv/image/WlLKOc" alt="tailwind" width="20" height="20"/> </a> 
-  <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://upanh.tv/image/WlLfMj" alt="tailwind" width="20" height="20"/> </a> 
+<!--   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://upanh.tv/image/WlLKOc" alt="tailwind" width="20" height="20"/> </a> 
+  <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://upanh.tv/image/WlLfMj" alt="tailwind" width="20" height="20"/> </a>  -->
 
 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> </a> 
