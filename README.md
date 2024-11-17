@@ -4,28 +4,14 @@
 </h1>
 <p>Welcome to my page!
 </br>
-I'm Tuyen Nguyen, Front-end Developer from <b>Nam Dinh, Viet Nam</b>, currently living in <b>Ha Noi, Viet Nam</b>
+I'm Tuyen Nguyen, A Developer from <b>Nam Dinh, Viet Nam</b>, currently living in <b>Ha Noi, Viet Nam</b></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h3>Languages and Tools</h3>
-<div>
-  
- <img src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" />
-  <img src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" />
-  <img src="https://camo.githubusercontent.com/fabe0b9fc0956fc4327fb91945629b49e89722774141d1be082a23f4770e2513/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" />
-  <img src="https://camo.githubusercontent.com/38b1dd4df6795a20dec7b275f45a65dfbbfffaa06701944cbadd18950244224e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666" />
-  <img src="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374" />
-  <img src="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
- 
-  <img src="https://camo.githubusercontent.com/0b146f0137683091afd46fa730d26b01ef8e0cc84e43bbc440d5f6e59c4c14c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61747269616c55492d3030383143423f7374796c653d706c6173746963266c6f676f3d6d6174657269616c2d5549" />
-   <img src="https://camo.githubusercontent.com/79116549823abe64e68159060a01e0cf37d56e649446f07b9eee46c75a834eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3238324333343f6c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d333842324143" />
-    <img src="https://camo.githubusercontent.com/200800486bf56a3f00be17fd8b81711349ee51cebf9c6e7ff2f67aac3ceb4e62/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f416e7425323044657369676e3f69636f6e3d68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f616e7466696e63646e2f507034575067564442332f4b4470677667754d704766716148506a6963524b2e737667266c6162656c" />
-  
-  <img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
-  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" />
-  <img src="https://camo.githubusercontent.com/e0e07d30f8e2fc4d48b098dea89aecb831cfd64e79d38c31b8576c4cda1fdc97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d556e627574752d4138314433333f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475266c6f676f436f6c6f723d666666666666" />
-  <img src="https://camo.githubusercontent.com/e99de6865dc58b0f88afcf5de77c8bde084a69e1fce59db1319d691fd1bdfa6e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e266c6f676f436f6c6f723d3233666666666666" />
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
   
   
